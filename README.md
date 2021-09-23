@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinssm
-- 👀 I’m interested in TI, CLOUD, DEVOPS.
+- 👀 I’m interested in TI, Angular, CLOUD, DEVOPS.
 - 🌱 I’m currently learning new AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
