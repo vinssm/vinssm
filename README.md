@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinssm
-- 👀 I’m interested in TI, Angular, CLOUD, DEVOPS.
+- 👀 I’m interested in UI, Angular, CLOUD, DEVOPS.
 - 🌱 I’m currently working as Release Manager and enrolled into UNCC Code BootCamp.
 - 💞️ I’m looking to collaborate on Angular UI
 - 📫 How to reach me ...
